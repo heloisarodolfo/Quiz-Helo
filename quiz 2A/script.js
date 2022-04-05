@@ -170,7 +170,7 @@ function verificarSeAcertou(nQuestao, resposta) {
 
     if(respostaEscolhida == certa) {
         pontos += 10 
-    } else 
+    }  
     
 
     placar = pontos
